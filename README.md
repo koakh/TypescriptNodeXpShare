@@ -66,4 +66,6 @@ $ yarn run neo4j-gqllib-starter:server
 
 ### launch some Operations
 
-open file client.http or go to apollo studio at <http://localhost:5000/graphql>
+open file `client.http` or go to apollo studio at <http://localhost:5000/graphql>
+
+> `client.http` needs [REST Client Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
