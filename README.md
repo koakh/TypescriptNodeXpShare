@@ -30,7 +30,11 @@ CREATE CONSTRAINT constraint_user_email ON (user:User) ASSERT user.email IS UNIQ
 
 ## Config Neo4j driver
 
-edit `packages/neo4j-gqllib-starter/server/.env`
+```shell
+$ cp packages/neo4j-gqllib-starter/server/.env.example packages/neo4j-gqllib-starter/server/.env
+```
+
+edit `packages/neo4j-gqllib-starter/server/.env` and configure neo4j host and password
 
 ```shell
 NEO_USER=neo4j
