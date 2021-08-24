@@ -58,7 +58,7 @@ $ yarn install
 $ yarn run neo4j-gqllib-starter:seed
 ```
 
-### Run Project
+### Run Server
 
 ```shell
 $ yarn run neo4j-gqllib-starter:server
