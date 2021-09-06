@@ -5,10 +5,10 @@
 	],
 	"termsOfServiceAgreed": true,
 	"externalAccountBinding": {
-		"protected": "eyJhbGciOiJIUzI1NiIsImtpZCI6Im9uQTVLNktYVzNVQTVBbjk5Q05xVVEiLCJ1cmwiOiJodHRwczovL2FjbWUuemVyb3NzbC5jb20vdjIvRFY5MC9uZXdBY2NvdW50In0",
-		"payload": "eyJjcnYiOiJQLTI1NiIsImt0eSI6IkVDIiwieCI6IjBOQWtVOW9OUGd1NXVBcFI5T1lMbmEyV29fOXVkTkdnZW91Zl8xLUE0SzgiLCJ5IjoiWjVnRnljWDVVOFhQT2lUZHNNNTNEbXV3b0Q1YUppeU9HTE4wS0NjemM3MCJ9",
-		"signature": "yhQfwyR2gGuB9PH3YAamgsMMB5nTMq0ekRkzQbjlck4"
+		"protected": "eyJhbGciOiJIUzI1NiIsImtpZCI6IjNSZkpEUXRzYzRIVkRpbTB2dkdZeWciLCJ1cmwiOiJodHRwczovL2FjbWUuemVyb3NzbC5jb20vdjIvRFY5MC9uZXdBY2NvdW50In0",
+		"payload": "eyJjcnYiOiJQLTI1NiIsImt0eSI6IkVDIiwieCI6IkNmM0pPOUctTUVPUnlKRG5oSDNNdE5vVjE1SE1RZE9EVmVveVNVWUNfaU0iLCJ5IjoiQzFQWUpPbHM5bFJfLVF2VUJYQkJhSUVCS21VRUp1S1JFaFA2TE9yR0RKbyJ9",
+		"signature": "5nE5dc4Vcpacszs42U23COOI55EC3D2oi2ubM_mAWrM"
 	},
-	"orders": "https://acme.zerossl.com/v2/DV90/account/onA5K6KXW3UA5An99CNqUQ/orders",
-	"location": "https://acme.zerossl.com/v2/DV90/account/onA5K6KXW3UA5An99CNqUQ"
+	"orders": "https://acme.zerossl.com/v2/DV90/account/3RfJDQtsc4HVDim0vvGYyg/orders",
+	"location": "https://acme.zerossl.com/v2/DV90/account/3RfJDQtsc4HVDim0vvGYyg"
 }
