@@ -126,18 +126,13 @@ Successfully tagged koakh/neo4j-gqllib-starter-server:latest
 
 ### Spin docker stack
 
-fist go to neo4 desktop and stop database, else port will fire a conflit `listen tcp4 0.0.0.0:7687: bind: address already in use`
+first go to neo4 desktop and stop database, else port will fire a conflit `listen tcp4 0.0.0.0:7687: bind: address already in use`
 
 ```shell
 $ docker-compose up
 Creating network "typescriptnodexpshare_default" with the default driver
 Pulling caddy (caddy:2.4.3)...
-```
 
-
+# run
 neo4j-gqllib-starter:docker:run
-
-
-
-api.kuartzo.com
-neo4j.kuartzo.com
+```
