@@ -1,8 +1,6 @@
 # README
 
 - [README](#readme)
-  - [TLDR](#tldr)
-    - [Clone Project](#clone-project)
   - [Launch database and seed data](#launch-database-and-seed-data)
   - [Config Neo4j driver](#config-neo4j-driver)
   - [Install dependencies](#install-dependencies)
@@ -12,15 +10,6 @@
   - [Docker Compose](#docker-compose)
     - [Build Local Image](#build-local-image)
     - [Spin docker stack](#spin-docker-stack)
-
-## TLDR
-
-### Clone Project
-
-```shell
-# clone repo
-$ git clone https://github.com/koakh/TypescriptNodeNeo4jGraphqlLibraryStarter.git
-```
 
 ## Launch database and seed data
 
