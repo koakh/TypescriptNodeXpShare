@@ -94,3 +94,4 @@ tsconfig.tsbuildinfo.bak
 packages/neo4j-gqllib-starter/server/node_modules/
 volumes/neo4j/data
 volumes/neo4j/caddy
+volumes/caddy/data
